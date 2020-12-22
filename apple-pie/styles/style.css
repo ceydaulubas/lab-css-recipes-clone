@@ -25,12 +25,15 @@
 .body{
     justify-content: center;
     margin: 50px 470px; 
-   
+    width: 570px;
    
 }
 
 .bodyImg{
-    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 ul.list1 {
